@@ -10,9 +10,9 @@ app.set('views', './views');
 
 app.get('/components', (req, res) => {
     res.render('public'
-        //name: "SmartEmpire",
-        //age: 32,
-       // signUp: "http://www.smartempire.com"
+        //name: "Chuks",
+        //age: 22,
+       // signUp: "http://www.EasyBanking.com"
     );
 });
 
